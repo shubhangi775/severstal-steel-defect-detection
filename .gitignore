@@ -1,0 +1,6 @@
+severstal-steel-defect-detection.zip
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+venv/
